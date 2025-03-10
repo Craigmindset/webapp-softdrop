@@ -1,0 +1,21 @@
+{
+  "name": "SoftDrop",
+  "short_name": "SoftDrop",
+  "description": "Fast and reliable logistics solutions for your delivery needs",
+  "icons": [
+    {
+      "src": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/softdrop-logo-wht-1zCVijRmZor6FjD7Aufv2EQUKr7k1Y.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/softdrop-logo-wht-1zCVijRmZor6FjD7Aufv2EQUKr7k1Y.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
+
